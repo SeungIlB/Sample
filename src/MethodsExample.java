@@ -17,7 +17,7 @@ public class MethodsExample {
             greeting_2();
 
 
-        }
+        } 
 
         // 1. 입력도 있고, 출력도 있는 경우
     static int mod (int a, int b){

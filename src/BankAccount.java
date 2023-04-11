@@ -16,7 +16,7 @@ public class BankAccount {
     public void changePassword(int password){
         this.password = password;
     }
-
+ 
     // 생성자
     // 클래스 내부에 정의, 생성자 메서드명은 클래스명과 일치!
     // new 연산자와 함께 사용

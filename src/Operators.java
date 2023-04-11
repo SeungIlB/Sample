@@ -18,7 +18,7 @@ public class Operators {
 
         // 비교 연산자
 
-        /*int a = 5;
+        /*int a = 5; 
         int b = 8;
         System.out.println(a > b);
         System.out.println(a < b);

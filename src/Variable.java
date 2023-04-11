@@ -18,7 +18,7 @@ public class Variable {
     // 7. 자바 예약어 x
         public static void main(String[] args) {
         int num = 1;
-
+ 
         double width = 12.3;
 
         String content = "Programming";

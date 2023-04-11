@@ -15,3 +15,4 @@ public class ConsoleIO {
       System.out.printf("%s %d", username, birthDate);
     }
 }
+

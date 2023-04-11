@@ -19,4 +19,4 @@ public class MapsExample {
         map_1.put("mbti","ESTP");
         System.out.println(map_1.get("mbti"));
     }
-}
+} 

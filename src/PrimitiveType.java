@@ -20,7 +20,7 @@ public class PrimitiveType {
         char char_2 = 97; // <- 아스키코드
 
         System.out.println(char_1);
-        System.out.println(char_2);
+        System.out.println(char_2); 
 
         // 논리형 -- 참 거짓
         // boolean(1 byte)

@@ -23,7 +23,7 @@ public class TypeCasting {
         double n = m;
         System.out.println(m);
         System.out.println(n);
-
+ 
 
 
     }

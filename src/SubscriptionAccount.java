@@ -4,3 +4,4 @@ public class SubscriptionAccount extends BankAccount{
     // 자바에선 단일 상속만 지원함
     int numOfSubscription;
 }
+ 

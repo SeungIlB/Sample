@@ -63,7 +63,7 @@ public class UserRegister {
                     System.out.println("패스워드를 다시 입력하세요.");
                     System.out.println("===============================");
                 }
-            }
+            } 
 
             // 이름
             System.out.print("성명: ");

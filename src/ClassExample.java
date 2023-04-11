@@ -12,4 +12,4 @@ public class ClassExample {
         System.out.println(bankAccount.getPassword());
         // 이렇게 하면 됨.
     }
-}
+} 

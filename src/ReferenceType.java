@@ -21,4 +21,4 @@ public class ReferenceType {
             //따라서 b와 c는 같은 주소값을 갖게됨.
         }
     }
-}
+} 
